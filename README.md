@@ -1,1 +1,1 @@
-# accessible-vqa
+# Accessible Visual Question Answering System
