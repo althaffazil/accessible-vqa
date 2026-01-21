@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers>=4.36.0
+datasets
+pillow
+pyttsx3
+numpy
